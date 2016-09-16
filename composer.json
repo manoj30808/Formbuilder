@@ -8,7 +8,7 @@
             "email": "manoj30808@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master",
     "require": {
     	"php": ">=5.5.9",
         "illuminate/support": "~5.0"

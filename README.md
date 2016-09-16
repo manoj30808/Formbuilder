@@ -1,6 +1,8 @@
 # Formbuilder for Laravel5
 
-    Step 1 : composer require sonlabs/formbuilder
+    Step 1 : "require": {
+				"sonlabs/formbuilder" : "dev-master"
+			},
     Step 2 : Add service provider in config/app.php 
             'providers'=>['SonLabs\FormBuilder\FormBuilderServiceProvider',]
     Step 3 : Add aliases in config/app.php 
