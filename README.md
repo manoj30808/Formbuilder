@@ -7,7 +7,7 @@
             'aliases'=>['Formbuilder'=>'SonLabs\FormBuilder\Facades\Formbuilder']
     Step 4 : create formbuilder.php under config folder with this code
 # ------formbuilder.php-----
-```javascript
+```php
     <?php
     return array(
     'templates' => array(
