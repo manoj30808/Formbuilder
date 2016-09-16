@@ -1,5 +1,6 @@
 {
     "name": "sonlabs/formbuilder",
+    "keywords": ["laravel5","formbuilder","macro"],
     "description": "Package for create easly form with single sintex",
     "authors": [
         {
