@@ -1,0 +1,15 @@
+{
+    "name": "sonlabs/formbuilder",
+    "description": "Package for create easly form with single sintex",
+    "authors": [
+        {
+            "name": "Manoj Sonagra",
+            "email": "manoj30808@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=5.5.9",
+        "illuminate/support": "~5.0"
+    }
+}
